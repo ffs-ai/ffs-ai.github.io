@@ -1,4 +1,7 @@
 baseURL = "https://www.ffs.ai/"
 languageCode = "en-us"
 title = "FFS.ai - Fridays, Fun, and $$$"
-theme = "ananke"
+theme = "hugo-PaperMod"
+paginate = 2
+Copyright = "© Loki8 LLC 2022"
+canonifyurls = true
