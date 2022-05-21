@@ -158,12 +158,12 @@ Breakdown:
 | BSM     | 55 shares                              | 55 * $14.98 = $823.90             | 0% until sold, 20% when sold | 
 | RC      | 35 shares                              | 35 * $14.33 = $501.55             | 35% * $14.33 = 5.0155        |
 
-Using the Dividend Reinvestment Calculator we can skip all the boring math and get to the meat of the data:
+Using the Dividend Reinvestment Calculator [^16] we can skip all the boring math and get to the meat of the data:
 
 | Company | Initial Number of Shares | Initial Price Per Share | Dividend $ after taxes | Years to 2x |
 |---------|--------------------------|-------------------------|------------------------|-------------|
 | VALE    | 29                       | $16.72                  | $1.816                 | 7           |
-| VALE    | 29                       | $16.72                  | $2.31572               | 2           |
+| VALE    | 29                       | $16.72                  | $2.31572  (tax free)   | 2           |
 | BSM     | 55                       | $14.98                  | $1.107                 | 10          |
 | RC      | 35                       | $14.33                  | $1.051                 | 10          |
 | RC      | 35                       | $14.33                  | $1.617857 (tax free)   | 7           |
@@ -195,3 +195,4 @@ Credits:
 [^15]: [Rule of 72](https://www.investopedia.com/terms/c/compounding.asp)
 [^16]: [Dividend Reinvestment Calculator](https://www.buyupside.com/calculators/dividendreinvestmentdec07.htm)
 [^17]: [DRIP](https://www.investopedia.com/terms/d/dividendreinvestmentplan.asp)
+
